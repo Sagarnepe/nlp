@@ -27,7 +27,7 @@ Q. Two concrete pros/cons of subword tokenization for your language.
     A concrete advantage is better coverage for productive word formation: inflected or derived forms like “काठमाडौंमा” can be tokenized using pieces that appeared elsewhere. Another advantage is a smaller vocabulary than word-level tokenization, which improves generalization. A drawback is that learned subwords may split in ways that do not match linguistic morphemes, which can reduce interpretability. Another drawback for Devanagari is that character-level starting points can lead to merges that reflect script-specific sequences rather than meaningful semantic units, depending on the training text size and normalization.
 
 
-Question 5
+Question 5 (tool_tokenizer_nepali)
 
 Take a short paragraph (3–4 sentences) in your language (e.g., from news, a story, or social media).
 Do naïve space-based tokenization.
