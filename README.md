@@ -1,14 +1,16 @@
-                                                        NAME : SAGAR NEUPANE
-                                                        EMAIL : SXN14600@UCMO.EDU
-                                                        700# : 700791460
+                                            NAME : SAGAR NEUPANE
+                                            EMAIL : SXN14600@UCMO.EDU
+                                            700# : 700791460
 
 precision_recall.py : Multiclass Confusion Matrix
+
         1.	Accepts the confusion matrix above as input.
         2.	Computes per-class precision and recall.
         3.	Computes macro-averaged and micro-averaged precision and recall.
         4.	Prints all results clearly.
 
 bigram_language_model.py : Bigram Language Model Implementation
+
         1.	Read the training corpus:
         2.	<s> I love NLP </s>  
         3.	<s> I love deep learning </s>  
