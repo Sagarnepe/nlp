@@ -133,3 +133,6 @@ The program shows:
 - Scaled attention scores
 - Final attention weights
 - Attention output vectors
+
+## Files
+- `attention.py` — main implementation and test script
