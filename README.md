@@ -1,4 +1,4 @@
-# Question 1 Character-Level RNN Language Model 
+# Character-Level RNN Language Model 
 
 This project trains a small character-level recurrent neural network to predict the next character from previous characters.
 
@@ -43,7 +43,7 @@ python char_rnn_train.py \
   --start_text "hel"
   ```
 
-  # Larger Corpus 
+  ### Larger Corpus 
   ```bash
   python char_rnn_train.py \
   --text_path alice_excerpt.txt \
