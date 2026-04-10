@@ -57,19 +57,19 @@ python char_rnn_train.py \
   --start_text "Alice "
   ```
 
-## Program Output
+# Program Output
 
 ## For each run, the program saves:
 
-## loss_curves.png
+### loss_curves.png
 - Plot of training and validation loss across epochs.
 
-## loss_values.txt
+### loss_values.txt
 - Numerical loss values in CSV-style format:
 
-## epoch,train_loss,val_loss
+### epoch,train_loss,val_loss
 - 1,2.845321,2.901224
 - 2,2.401992,2.517330
 
-## samples.txt
+### samples.txt
 - Generated text at multiple temperatures such as 0.7, 1.0, and 1.2.
