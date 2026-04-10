@@ -1,0 +1,67 @@
+==================== temperature=0.7 ====================
+helo there
+hello world
+help me please
+help them now
+helium is light
+hero says hello
+he held the helm
+the helper helped
+shells sell well
+yellow bell fell
+hello there
+hello world
+help me please
+help them now
+helium is light
+hero says hello
+he held the helm
+the helper helped
+shells sell well
+yellow bell f
+
+==================== temperature=1.0 ====================
+helo world
+help me please
+help them is light
+hero says hello
+he held the helm
+the helper helped
+shells sell well
+yellow bell fell
+hello there
+hello world
+help me please
+help them now
+helium is bell fell
+hello there
+hello world
+help me please
+help them now
+helium is light
+hero says hello
+he held the hel
+
+==================== temperature=1.2 ====================
+helo
+he held the helm
+the helper helped
+shells sell well
+yellow bell fell
+hello there
+hello world
+help me please
+help them now
+helped
+shells sell well
+yellow byell fell
+hellper helped
+shells sell well
+yello
+he held the helm
+the helper helped
+shells sell well
+yellow bell well
+yellow bell fell
+hello thel
+
